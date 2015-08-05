@@ -1,4 +1,4 @@
-define("widgets/qihong-test-ll/abcd_bower_test", [], function(require, exports, module) {
+define(function(require, exports, module) {
     function Widget1() {
 	        if (!(this instanceof Widget1)) {
 			            return new Widget1();
